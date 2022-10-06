@@ -10,7 +10,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=marceloreyran&theme=tokyonight&hide_border=false)marceloreyran&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=marceloreyran&theme=tokyonight&hide_border=false)
 
----
+
+# 👀 Profile Visit
 [![](https://visitcount.itsvg.in/api?id=marceloreyran&icon=2&color=0)](https://visitcount.itsvg.in)

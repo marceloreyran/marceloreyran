@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    👋 Hi, I’m Marcelo Reyna Rangel / @marceloreyran ...<br>    👀 I’m interested in Front End & Back End ...<br>    🌱 I’m currently learning Html, Css, JavaScript, Python, React ...<br>    💞️ I’m looking to collaborate on IT ...<br>    📫 How to reach me marcelo.reyran@gmail.com ...<br><br>
+<br>    👋 Hi, I’m Marcelo Reyna Rangel / @marceloreyran ...<br>    👀 I’m interested in Front End & Back End ...<br>    🌱 I’m currently learning Html, Css, JavaScript, Python, React ...<br>    💬 I’m looking to collaborate on IT ...<br>    📫 How to reach me marcelo.reyran@gmail.com ...<br><br>
 
 
 ## 🌐 Socials:

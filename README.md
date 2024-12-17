@@ -3,7 +3,7 @@
 👋 Hi, I’m Marcelo Reyna Rangel / @marceloreyran ...<br>👀 I’m interested in Frontend & Backend ...<br>🌱 I’m currently learning Html, Css, JavaScript, React, Node, Python, Git.....<br>🔭 I’m looking to collaborate on IT ...<br>📫 How to reach me marcelo.reyran@gmail.com ...<br>
 
 
-## 🌐 Socials:
+## 📱 Social Medias:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/marcelo-reyna-rangel) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-reyna-rangel-83b813216/) 
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/_MarceloRR)
